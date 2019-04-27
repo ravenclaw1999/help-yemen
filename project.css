@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Serif+Pro');
+
+body {
+	text-align: center;
+	font-family: 'Source Serif Pro', serif;
+	background: linear-gradient(to bottom right, #006699 0%, #ff6666 100%);
+	font-weight: bold;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+}
+
+li {
+	float: left;
+}
+
+li a:hover {
+	background-color: #111;
+}
+
+li a {
+	padding: 14px 16px;
+	display: block;
+	color: white;
+	text-decoration: none;
+}
+
+.leader1 {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 5px;
+	width: 150px;
+}
+
+.leader2 {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 5px;
+	width: 150px;
+}
+
+.capital {
+	border-style: dotted;
+	border-color: white;
+}
+
+.stats {
+	color: white;
+}
+
+.pictures {
+	border-style: solid;
+	border-width: 3px;
+}
+
+#images {
+	width: 700px;
+}
+
+/*
+* {box-sizing: border-box;}
+body {font-family: Verdana, sans-serif;}
+.mySlides {display: none;}
+img {vertical-align: middle;}
+
+
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 20px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 20px 12px;
+  position: absolute;
+  top: 0;
+}
+
+.dot {
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active {
+  background-color: #717171;
+}
+
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+*/
